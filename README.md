@@ -1,7 +1,7 @@
-Heroku Buildpack for Node.js
+Heroku Buildpack for Node.js with ALL npm dependencies
 ============================
 
-This is the official [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Node.js apps. If you fork this repository, please **update this README** to explain what your fork does and why it's special.
+Based on the official [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Node.js apps, but with support for installing ALL npm dependencies (not just production).
 
 
 How it Works
